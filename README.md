@@ -40,4 +40,18 @@ As ChatGPT continues to evolve, so will our repository. Stay tuned for regular u
 </p>
 <p align="center">图3：修改API秘钥</p>
 
-将` $OPENAI_API_KEY`替换为从OpenAI官方复制的API秘钥，注意`Bearer`后面的空格不要删除！！！
+将`$OPENAI_API_KEY`替换为从OpenAI官方复制的API秘钥，注意`Bearer`后面的空格不要删除！！！
+
+## 3.运行代码
+<p align="center">
+<img src="https://github.com/haoyu2022/ChatGPTDevHub/assets/97349759/782fba1d-46e2-4917-8965-730ea746aff0">
+</p>
+<p align="center">图4：运行输入prompt提示词</p>
+
+## 4.查看结果
+<p align="center">
+<img src="https://github.com/haoyu2022/ChatGPTDevHub/assets/97349759/771a3ff3-2640-4a60-9900-d6dcc414244a">
+</p>
+<p align="center">图5：查看结果</p>
+
+
