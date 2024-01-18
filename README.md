@@ -8,6 +8,7 @@ Welcome to ChatGPTDevHub!
 API Call Examples: Delve into a wide range of ChatGPT API call examples, meticulously crafted to showcase the versatility and power of the ChatGPT model.
 Development Guides: Whether you're a beginner or an experienced developer, our step-by-step guides provide insights and best practices to enhance your coding experience.
 Application Codes: Explore an array of real-world application codes that demonstrate how ChatGPT can be integrated into diverse projects and platforms.
+
 🎯 Our Goal:
 Our mission is to empower developers with the tools and knowledge necessary for successful ChatGPT API integration. We believe in simplifying complex concepts and providing hands-on examples to accelerate learning and application.
 
@@ -22,5 +23,8 @@ As ChatGPT continues to evolve, so will our repository. Stay tuned for regular u
 # 使用教程
 ## 1.下载`dall-e-3.py`Python文件，使用Pycharm打开
 ## 2.修改两处代码
-1. 好
+1. 设置你的图像存储路径
+![image](https://github.com/haoyu2022/ChatGPTDevHub/assets/97349759/32c431d3-a6e1-4cdc-98e1-4a8d729e2e79)
+<p align="center">这段文本将会居中显示。</p>
+2. 设置你的API秘钥
 
