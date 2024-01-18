@@ -27,7 +27,7 @@ As ChatGPT continues to evolve, so will our repository. Stay tuned for regular u
 <p align="center">
 ![image](https://github.com/haoyu2022/ChatGPTDevHub/assets/97349759/32c431d3-a6e1-4cdc-98e1-4a8d729e2e79)
 </p>
-<p align="center">图1：修改代码1</p>
+<p align="center">图1：修改代码1看就看</p>
 
 <p align="center">
 ![image](https://github.com/haoyu2022/ChatGPTDevHub/assets/97349759/b8a0d97f-eb85-4531-8ff2-f67f50f4ba9e)
