@@ -21,6 +21,9 @@ As ChatGPT continues to evolve, so will our repository. Stay tuned for regular u
 🔍 Explore, learn, and create with ChatGPTDevHub - your go-to hub for ChatGPT API development!
 
 # 使用教程
+
+## 注意☢️☢️☢️请自备梯子，否则发送不成功！！！
+
 ## 1.下载`dall-e-3.py`Python文件，使用Pycharm打开
 ## 2.修改两处代码
 1. 设置你的图像存储路径
@@ -52,6 +55,6 @@ As ChatGPT continues to evolve, so will our repository. Stay tuned for regular u
 <p align="center">
 <img src="https://github.com/haoyu2022/ChatGPTDevHub/assets/97349759/771a3ff3-2640-4a60-9900-d6dcc414244a">
 </p>
-<p align="center">图5：查看结果</p>
+<p align="center">图5：一直新鲜且可爱的猫咪出炉🥰</p>
 
 
