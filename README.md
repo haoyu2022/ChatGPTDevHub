@@ -18,3 +18,8 @@ As ChatGPT continues to evolve, so will our repository. Stay tuned for regular u
 
 🔍 Explore, learn, and create with ChatGPTDevHub - your go-to hub for ChatGPT API development!
 
+# 使用教程
+## 1.下载`dall-e-3.py`Python文件，使用Pycharm打开
+## 2.修改两处代码
+1. 好
+
